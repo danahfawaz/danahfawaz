@@ -4,11 +4,6 @@
 SEU IT Student | Cybersecurity Program
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/IT-Student-blue"/>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-purple"/>
-  <img src="https://img.shields.io/badge/Java-SQL-informational"/>
-</p>
 
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtxZHdrc2IyMWZzYzRnbTZ0cDNpNjhiMW43cTA4ODNhYzE3NmNtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif" width="700" height="230">
@@ -51,6 +46,5 @@ University and personal projects related to system analysis, databases, and IT f
 
 ---
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGUxcG42cHV3ZDZqNG13ZGJzam9qeTA0MTZuNDdjMWhyNGVhejlnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="120"/>
-
 ## Connect
 LinkedIn: https://www.linkedin.com/in/danah-fawaz-76b997350
