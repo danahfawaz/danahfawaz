@@ -25,7 +25,7 @@ This GitHub includes selected academic and personal projects that cover core IT 
 Hope you find it useful.
 
 ---
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDlkNG5kc2RlNXIwanBrdzU4YzJzY3N5cXliZGl0NjhiNTdmanhldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TfJl1AIrrXo8QuGxoB/giphy.gif" width="180"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdkNm1kcjAzMms0Mm9hZWljd2hzd2xlaWhqMGl0NzlqdWg2eWVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif"180"/>
 
 
 ## Core IT Knowledge
