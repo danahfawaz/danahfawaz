@@ -25,12 +25,11 @@ This GitHub includes selected academic and personal projects that cover core IT 
 Hope you find it useful.
 
 ---
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdkNm1kcjAzMms0Mm9hZWljd2hzd2xlaWhqMGl0NzlqdWg2eWVwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/ksE9feSa2b4V2GYwY4/giphy.gif" width="180"/>
 
 
 ## Core IT Knowledge
 - Java programming fundamentals  
-- Database design & SQL (tables, relationships, joins)  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI5cmtnMDRuNnQ4M3RhNG9rajVoOHBrODFodnhpZWJjZDhkbGU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" width="60"/>
+- Database design & SQL (tables, relationships, joins)  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI5cmtnMDRuNnQ4M3RhNG9rajVoOHBrODFodnhpZWJjZDhkbGU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" width="50"/>
 - Systems analysis (Use Case, DFD, ERD)  
 - Operating systems & basic security concepts  
 - Computer networks & network security  
