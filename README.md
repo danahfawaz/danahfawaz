@@ -11,7 +11,7 @@ SEU IT Student | Cybersecurity Program
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDlmaDBxbjBhd25tYmdyNHhwY2E4eXJhcG5wb2wwMWprNndmbHpzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G2cpDFcKzAPMScb0MC/giphy.gif" width="260"/>
 </p>
 
 ---
