@@ -5,9 +5,9 @@ SEU IT Student | Cybersecurity Program
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IT-Student-blue"/>
+  <img src="https://img.shields.io/badge/Field-IT-blue"/>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-purple"/>
-  <img src="https://img.shields.io/badge/Java-SQL-informational"/>
+  <img src="https://img.shields.io/badge/Projects-Academic%20%26%20Personal-informational"/>
 </p>
 
 <p align="center">
@@ -20,32 +20,36 @@ SEU IT Student | Cybersecurity Program
 SEU IT student (Cybersecurity program).  
 Interested in cybersecurity and artificial intelligence.
 
-This GitHub includes selected academic and personal projects that cover core IT concepts.  
-Hope you find it useful.
+My academic and personal projects cover a wide range of IT concepts.  
+Hope it’s helpful.
 
 ---
 
-## Core IT Knowledge
-- Java programming fundamentals  
-- Database design & SQL (tables, relationships, joins)  
-- Systems analysis (Use Case, DFD, ERD)  
-- Operating systems & basic security concepts  
-- Computer networks & network security  
-- Web fundamentals (HTML, CSS, JavaScript)  
-- UI & usability concepts (HCI)
+## Core IT Background
+- Java programming fundamentals and problem-solving
+- Data structures and algorithmic thinking
+- Database design and SQL (tables, relationships, joins)
+- Systems analysis and modeling (Use Case, DFD, ERD)
+- Operating systems concepts and system-level security
+- Computer networks and network security fundamentals
+- Web technologies fundamentals (HTML, CSS, JavaScript)
 
 ---
 
-## Tools & Software
-- NetBeans (Java projects)
-- MySQL
-- Microsoft Excel
-- Diagramming tools (e.g., Draw.io)
+## Tools & Environments
+- NetBeans (Java development)
+- SQL-based database environments
+- Microsoft Excel (data handling, analysis, documentation)
+- System modeling & diagramming tools
+- Academic development and testing environments
 
 ---
 
 ## Projects
-University and personal projects related to system analysis, databases, and IT fundamentals.
+University and personal projects focused on:
+- System analysis and structured design
+- Database-driven systems
+- Applying IT and cybersecurity concepts in practice
 
 ---
 
