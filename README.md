@@ -35,8 +35,6 @@ Hope you find it useful.
 - Computer networks & network security  
 - Web fundamentals (HTML, CSS, JavaScript)  
 - UI & usability concepts (HCI)
-- <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmI5cmtnMDRuNnQ4M3RhNG9rajVoOHBrODFodnhpZWJjZDhkbGU0cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/C8Tij3iox3coBSqVWE/giphy.gif" width="60"/> <img src= "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJpOWhreXV6N3luNmticDlqajd2bzVpeGpoZTE5YnVwOGxqcWFvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/4FPHaW4QTEyt1lBxOo/giphy.gif" width="60"/>
-- 
 
 ---
 
@@ -52,6 +50,7 @@ Hope you find it useful.
 University and personal projects related to system analysis, databases, and IT fundamentals.
 
 ---
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGUxcG42cHV3ZDZqNG13ZGJzam9qeTA0MTZuNDdjMWhyNGVhejlnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/YPJ5gi3MZzSjhtQTIk/giphy.gif" width="180"/>
 
 ## Connect
 LinkedIn: https://www.linkedin.com/in/danah-fawaz-76b997350
