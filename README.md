@@ -1,7 +1,7 @@
 <h1 align="center">Danah Fawaz</h1>
 
 <p align="center">
-SEU IT Student | Cybersecurity Program
+IT Student | Cybersecurity Program
 </p>
 
 <p align="center">
