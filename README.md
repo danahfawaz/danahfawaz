@@ -20,8 +20,8 @@ IT Student | Cybersecurity Program
 ---
 
 ## About
-SEU IT student (Cybersecurity program).  
-Interested in cybersecurity and artificial intelligence.
+IT student (Cybersecurity program).  
+Interested in cybersecurity and networking , developing apps & web pages
 
 This GitHub includes selected academic and personal projects that cover core IT concepts.  
 Hope you find it useful.
