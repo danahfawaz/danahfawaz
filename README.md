@@ -3,11 +3,9 @@
 IT Student | Cybersecurity Track
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/IT-Student-blue"/>
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-purple"/>
-  <img src="https://img.shields.io/badge/Web-PHP%20%7C%20MySQL-informational"/>
-  <img src="https://img.shields.io/badge/Mobile-Java%20%7C%20SQLite-green"/>
+  <b>Idea → Design → Code → It works ✨</b>
 </p>
+
 <p align="center">
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtxZHdrc2IyMWZzYzRnbTZ0cDNpNjhiMW43cTA4ODNhYzE3NmNtdyZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/gi84IkFRzwube/giphy.gif" width="700" height="230">
 </p>
