@@ -3,10 +3,10 @@
 IT Student | Cybersecurity Track
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Programming-blue"/>
-  <img src="https://img.shields.io/badge/Python-Learning-yellow"/>
-  <img src="https://img.shields.io/badge/Web-Applications-purple"/>
-  <img src="https://img.shields.io/badge/Mobile-Applications-darkred"/>
+  <img src="https://img.shields.io/badge/Java-Programming-pink"/>
+  <img src="https://img.shields.io/badge/Python-Learning-purple"/>
+  <img src="https://img.shields.io/badge/Web-Applications-pink"/>
+  <img src="https://img.shields.io/badge/Mobile-Applications-purple"/>
   <img src="https://img.shields.io/badge/Digital-Forensics-pink"/>
   <img 
 </p>
