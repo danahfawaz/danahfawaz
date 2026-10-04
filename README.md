@@ -3,7 +3,12 @@
 IT Student | Cybersecurity Track
 </p>
 <p align="center">
-  <b>Idea → Design → Code → It works ✨</b>
+  <img src="https://img.shields.io/badge/Java-Programming-blue"/>
+  <img src="https://img.shields.io/badge/Python-Learning-yellow"/>
+  <img src="https://img.shields.io/badge/Web-Applications-purple"/>
+  <img src="https://img.shields.io/badge/Mobile-Applications-green"/>
+  <img src="https://img.shields.io/badge/Digital-Forensics-darkred"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-Track-black"/>
 </p>
 
 <p align="center">
