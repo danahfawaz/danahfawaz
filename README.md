@@ -1,6 +1,6 @@
 <h1 align="center">Danah Fawaz</h1>
 <p align="center">
-IT Student | Cybersecurity Track
+IT | Cybersecurity
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Programming-pink"/>
@@ -18,9 +18,9 @@ About
 
 Hi, I’m Danah 👩🏻‍💻
 
-This GitHub is my little project shelf — a mix of academic work, personal experiments, and ideas I wanted to try.
+This GitHub is my projects shelf — a mix of academic work, personal experiments, and ideas I wanted to try.
 
-You’ll find projects related to IT, cybersecurity, web development, mobile apps, databases, networking, digital forensics, and AI-based ideas.
+You’ll find projects related to IT, cybersecurity, AI, web development, mobile apps, databases, networking, digital forensics.
 
 turning random “what if?” ideas into screens, bugs, and sometimes actual projects ✨
 
