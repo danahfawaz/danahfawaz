@@ -4,7 +4,7 @@ IT | Cybersecurity
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-Programming-pink"/>
-  <img src="https://img.shields.io/badge/intrested-in-network-D8B4FE"/>
+  <img src="https://img.shields.io/badge/intrestedin-network-D8B4FE"/>
   <img src="https://img.shields.io/badge/Web-Applications-pink"/>
   <img src="https://img.shields.io/badge/Mobile-Applications-D8B4FE"/>
   <img src="https://img.shields.io/badge/Digital-Forensics-pink"/>
