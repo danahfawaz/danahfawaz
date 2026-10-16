@@ -1,36 +1,21 @@
-<h1 align="center">Danah Fawaz</h1>
 <p align="center">
-IT | Cybersecurity
+  <img src="https://img.shields.io/badge/build-stuff-FFB6C1"/>
+  <img src="https://img.shields.io/badge/investigate-things-D8B4FE"/>
+  <img src="https://img.shields.io/badge/learn-a%20lot-FFB6C1"/>
+  <img src="https://img.shields.io/badge/repeat-↻-D8B4FE"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Programming-pink"/>
-  <img src="https://img.shields.io/badge/intrestedin-network-D8B4FE"/>
-  <img src="https://img.shields.io/badge/Web-Applications-pink"/>
-  <img src="https://img.shields.io/badge/Mobile-Applications-D8B4FE"/>
-  <img src="https://img.shields.io/badge/Digital-Forensics-pink"/>
-  <img 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtxZHdrc2IyMWZzYzRnbTZ0cDNpNjhiMW43cTA4ODNhYzE3NmNtdyZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/gi84IkFRzwube/giphy.gif" width="700" height="230">
 </p>
 
-<p align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGtxZHdrc2IyMWZzYzRnbTZ0cDNpNjhiMW43cTA4ODNhYzE3NmNtdyZlcD12MV9pbnRlcmFsfGdpZl9ieV9pZCZjdD1n/gi84IkFRzwube/giphy.gif" width="700" height="230">
-</p>
-About
+## about
 
-Hi, I’m Danah 👩🏻‍💻
+hi, i'm Danah 👩🏻‍💻
 
-This GitHub is my projects shelf — a mix of academic work, personal experiments, and ideas I wanted to try.
+I study IT & cybersecurity, but this GitHub is mostly where my side quests end up.
 
-You’ll find projects related to IT, cybersecurity, AI, web development, mobile apps, databases, networking, digital forensics.
+Sometimes it’s security, sometimes it’s an app, and sometimes it’s just an idea I got way too curious about to leave alone.
 
-turning random “what if?” ideas into screens, bugs, and sometimes actual projects ✨
+I like figuring things out by actually building them — trying stuff, changing my mind halfway through, going down random rabbit holes, and somehow ending up with a project.
 
-I’m not tied to one stack — I just pick what helps the idea come to life.
-
-<p align="center">
-  <b>Idea → Design → Code → It works ✨</b>
-</p>
-
-
-
-
-
+**proof that I should stop saying “what if I built…”**
