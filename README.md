@@ -16,6 +16,8 @@ I study IT & cybersecurity, but this GitHub is mostly where my side quests end u
 
 Sometimes it’s security, sometimes it’s an app, and sometimes it’s just an idea I got way too curious about to leave alone.
 
-I like figuring things out by actually building them — trying stuff, changing my mind halfway through, going down random rabbit holes, and somehow ending up with a project.
+I like figuring things out by actually building them, trying stuff, changing my mind halfway through, testing different approaches, and somehow ending up with a project.
 
-**proof that I should stop saying “what if I built…”**
+<h3 align="center">
+  proof that I should stop saying <i>“what if I built…”</i>
+</h3>
