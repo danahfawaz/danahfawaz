@@ -31,11 +31,11 @@ hi, i'm Danah 👩🏻‍💻
 
 **(based in Saudi Arabia)**
 
-I study IT & cybersecurity, but this GitHub is mostly where my side quests end up.
+I study IT & cybersecurity, but this GitHub is mostly where my side quests end up
 
-Sometimes it’s security, sometimes it’s an app, and sometimes it’s just an idea I got way too curious about to leave alone.
+Sometimes it’s security, sometimes it’s an app, and sometimes it’s just an idea I got way too curious about to leave alone
 
-I like figuring things out by actually building them — trying stuff, changing my mind halfway through, testing different approaches, and somehow ending up with a project.
+I like figuring things out by actually building them trying stuff, changing my mind halfway through, testing different approaches, and somehow ending up with a project
 
 <br>
 
@@ -45,7 +45,7 @@ I like figuring things out by actually building them — trying stuff, changing 
 
 ### 01 — [ForenTrace ↗](https://github.com/danahfawaz/ForenTrace-showcase-ver)
 
-Digital forensics investigation & training platform with realistic synthetic cases, guided evidence analysis, Chain of Custody, investigation reporting, and AI-assisted guidance.
+Digital forensics investigation & training platform with realistic synthetic cases, guided evidence analysis, Chain of Custody, investigation reporting, and AI-assisted guidance
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahfawaz/ForenTrace-showcase-ver)
 
@@ -53,7 +53,7 @@ Digital forensics investigation & training platform with realistic synthetic cas
 
 ### 02 — [Baseerah AI ↗](https://github.com/danahfawaz/baseerah-ai)
 
-Arabic AI product for women's Islamic questions and rulings, grounded in traceable Quran, Hadith, and Tafsir sources.
+Arabic AI product for women's Islamic questions and rulings, grounded in traceable Quran, Hadith, and Tafsir sources
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-5B21B6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahfawaz/baseerah-ai)
 
@@ -61,7 +61,7 @@ Arabic AI product for women's Islamic questions and rulings, grounded in traceab
 
 ### 03 — [Network Threat Detection & Digital Investigation ↗](https://github.com/danahfawaz/network-threat-detection-investigation)
 
-PCAP analysis & SOC investigation tool for rule-based threat detection, evidence extraction, explainable risk scoring, and investigation reporting.
+PCAP analysis & SOC investigation tool for rule-based threat detection, evidence extraction, explainable risk scoring, and investigation reporting
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahfawaz/network-threat-detection-investigation)
 
@@ -69,7 +69,7 @@ PCAP analysis & SOC investigation tool for rule-based threat detection, evidence
 
 ### 04 — [Defensive Network Security Lab ↗](https://github.com/danahfawaz/defensive-network-security-lab)
 
-Network security lab focused on segmentation, defensive controls, validation scenarios, and configuration auditing.
+Network security lab focused on segmentation, defensive controls, validation scenarios, and configuration auditing
 
 [![View Repository](https://img.shields.io/badge/VIEW%20REPOSITORY-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danahfawaz/defensive-network-security-lab)
 
