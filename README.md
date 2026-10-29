@@ -58,9 +58,6 @@ I like figuring things out by actually building them — trying stuff, changing 
 ♡ connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/danah10">
-    <img src="https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:Danah.fawazz@gmail.com">
     <img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
