@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <b>build stuff Â· investigate things Â· learn a lot Â· repeat</b>
+  <b>build stuff · investigate things · learn a lot · repeat</b>
 </p>
 
 <p align="center">
@@ -12,22 +12,22 @@
 
 ---
 
-## ð™š about
+## 𐙚 about
 
-hi, i'm Danah ðŸ‘©ðŸ»â€ðŸ’»
+hi, i'm Danah 👩🏻‍💻
 
 I study IT & cybersecurity, but this GitHub is mostly where my side quests end up.
 
-Sometimes itâ€™s security, sometimes itâ€™s an app, and sometimes itâ€™s just an idea I got way too curious about to leave alone.
+Sometimes it’s security, sometimes it’s an app, and sometimes it’s just an idea I got way too curious about to leave alone.
 
-I like figuring things out by actually building them â€” trying stuff, changing my mind halfway through, going down random rabbit holes, and somehow ending up with a project.
+I like figuring things out by actually building them — trying stuff, changing my mind halfway through, going down random rabbit holes, and somehow ending up with a project.
 
 ---
 
-## âœ¦ top projects
+## ✦ top projects
 
 <h3>
-  <a href="https://github.com/danahfawaz/ForenTrace-showcase-ver">01 â€” ForenTrace â†—</a>
+  <a href="https://github.com/danahfawaz/ForenTrace-showcase-ver">01 — ForenTrace ↗</a>
 </h3>
 
 > Digital forensics investigation & training platform built around realistic synthetic cases, evidence analysis, Chain of Custody, guided workflows, progress tracking, reporting, and AI-assisted guidance.
@@ -39,10 +39,10 @@ I like figuring things out by actually building them â€” trying stuff, chan
 <br>
 
 <h3>
-  <a href="https://github.com/danahfawaz/baseerah-ai">02 â€” Baseerah AI â†—</a>
+  <a href="https://github.com/danahfawaz/baseerah-ai">02 — Baseerah AI ↗</a>
 </h3>
 
-> Arabic AI product for womenâ€™s Islamic questions and rulings, grounded in traceable Quran, Hadith, and Tafsir sources.
+> Arabic AI product for women’s Islamic questions and rulings, grounded in traceable Quran, Hadith, and Tafsir sources.
 
 <a href="https://github.com/danahfawaz/baseerah-ai">
   <img src="https://img.shields.io/badge/View%20Repository-5B21B6?style=flat-square&logo=github&logoColor=white">
@@ -51,7 +51,7 @@ I like figuring things out by actually building them â€” trying stuff, chan
 <br>
 
 <h3>
-  <a href="https://github.com/danahfawaz/network-threat-detection-investigation">03 â€” Network Threat Detection & Digital Investigation â†—</a>
+  <a href="https://github.com/danahfawaz/network-threat-detection-investigation">03 — Network Threat Detection & Digital Investigation ↗</a>
 </h3>
 
 > PCAP analysis & SOC investigation tool for rule-based threat detection, evidence extraction, explainable risk scoring, and investigation reporting.
@@ -63,7 +63,7 @@ I like figuring things out by actually building them â€” trying stuff, chan
 <br>
 
 <h3>
-  <a href="https://github.com/danahfawaz/defensive-network-security-lab">04 â€” Defensive Network Security Lab â†—</a>
+  <a href="https://github.com/danahfawaz/defensive-network-security-lab">04 — Defensive Network Security Lab ↗</a>
 </h3>
 
 > Segmented enterprise network security lab with practical controls, validation scenarios, and a Python configuration auditor.
@@ -74,7 +74,7 @@ I like figuring things out by actually building them â€” trying stuff, chan
 
 ---
 
-## âŸ¡ skills
+## ⟡ skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Web%20Development-4C1D95?style=for-the-badge&logoColor=white" />
@@ -85,7 +85,7 @@ I like figuring things out by actually building them â€” trying stuff, chan
 
 ---
 
-## â™¡ connect
+## ♡ connect
 
 <p align="center">
   <a href="mailto:Danah.fawazz@gmail.com">
